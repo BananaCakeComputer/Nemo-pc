@@ -13,3 +13,5 @@
 >变量、列表、函数积木盒子的“设置按钮”点击无响应
 
 >云变量无法使用
+
+![](https://repository-images.githubusercontent.com/364228708/b7d0e480-ad0e-11eb-9384-41e33eb3dcd5)
