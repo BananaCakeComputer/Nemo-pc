@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icn_blockly_event_midi</title>
+    <g id="icn_blockly_event_midi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <circle id="Oval-3" fill="#FFFFFF" cx="21" cy="21" r="21"></circle>
+            <g id="编组" transform="translate(9.000000, 10.000000)">
+                <rect id="矩形" fill="#9E59ED" x="0" y="0" width="24" height="22" rx="5"></rect>
+                <path d="M6,2 L6,10 C6,11.1045695 6.8954305,12 8,12 L8,12 L8,20 L5,20 C3.34314575,20 2,18.6568542 2,17 L2,5 C2,3.34314575 3.34314575,2 5,2 L6,2 Z M13,2 L13,10 C13,10.9319128 13.6373769,11.7149582 14.4999808,11.9369863 L14.4999808,11.9369863 L14.5,20 L9.5,20 L9.50102216,11.9367279 C10.3124056,11.7274322 10.9242933,11.0217065 10.9934726,10.1627635 L11,10 L11,2 L11,2 L13,2 Z M19,2 C20.6568542,2 22,3.34314575 22,5 L22,17 C22,18.6568542 20.6568542,20 19,20 L16,20 L16,12 C17.0543618,12 17.9181651,11.1841222 17.9945143,10.1492623 L18,10 L18,2 L18,2 L19,2 Z" id="形状结合" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
